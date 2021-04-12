@@ -1,0 +1,4 @@
+name: CoinsAPI
+author: PLK
+version: 1.0
+main: de.plk.kcoins.core.PluginCore
